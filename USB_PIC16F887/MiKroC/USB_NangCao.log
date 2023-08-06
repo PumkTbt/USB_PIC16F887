@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\MiKroC\USB_NangCao.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\MiKroC\" "USB_NangCao.c" "USBdsc.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Sprintf.mcl" "__Lib_Button.mcl" "__Lib_UART_c67.mcl" "__Lib_USB_genHID.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	USB_NangCao.c
+diagnostics: 105	123	Compiled Successfully	USB_NangCao.c
+diagnostics: 0	122	Compilation Started	USBdsc.c
+diagnostics: 167	123	Compiled Successfully	USBdsc.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+hint: 0	1144	Used RAM (bytes): 262 (13%)  Free RAM (bytes): 1765 (87%)	Used RAM (bytes): 262 (13%)  Free RAM (bytes): 1765 (87%)
+hint: 0	1144	Used ROM (bytes): 6118 (19%)  Free ROM (bytes): 26650 (81%)	Used ROM (bytes): 6118 (19%)  Free ROM (bytes): 26650 (81%)
+diagnostics: 0	125	Project Linked Successfully	USB_NangCao.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'USB_NangCao.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 13 Apr 2022, 15:41:26	USB_NangCao.mcppi

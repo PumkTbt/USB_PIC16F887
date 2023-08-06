@@ -1,0 +1,27 @@
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.Form1.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.csproj.GenerateResource.Cache
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\bin\Debug\USB_NangCao.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\bin\Debug\USB_NangCao.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\bin\Debug\UsbLibrary.dll
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\USB_NangCao\GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\bin\Debug\USB_NangCao.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\bin\Debug\USB_NangCao.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\bin\Debug\UsbLibrary.dll
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.Form1.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\USB\File Nop\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.csproj.GenerateResource.Cache
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.exe
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.pdb
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\bin\Debug\USB_NangCao.exe
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\bin\Debug\USB_NangCao.pdb
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\bin\Debug\UsbLibrary.dll
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.Form1.resources
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap USB\USB_NangCao_\File Visual GUI\USB_NangCao\USB_NangCao\obj\x86\Debug\USB_NangCao.csproj.GenerateResource.Cache
